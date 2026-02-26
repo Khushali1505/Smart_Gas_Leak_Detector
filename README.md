@@ -63,4 +63,11 @@ Initial self-calibration performed in clean air
 Threshold set relative to baseline value
 Tested using controlled exposure to gas/smoke
 Verified alert accuracy and notification reliability
+
+🚀 Future Improvements
+
+Add enclosure for real-world deployment
+Integrate flame and temperature sensors
+Cloud data logging
+Enhanced alert logic
  
